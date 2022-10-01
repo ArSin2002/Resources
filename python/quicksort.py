@@ -1,3 +1,8 @@
+
+
+#this is a code for Quick sort in Python
+
+
 def quicksort(a):
     if len(a)<=1:
         return a
